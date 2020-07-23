@@ -1,2 +1,4 @@
-# PowerBI-RStudio
-Trabalhando  PowerBI com Linguagem R
+# PowerBI + RStudio
+Power BI comes with numerous internal features, and perhaps depending on the context, more needs to be looked for. So, it's time to get PowerBI to work together with other tools like R Language and Python.
+Language R is a powerful statistical language that works very well with Machine Learning models to produce predictive models in the context of Data Science and also with PowerBI for BI (Business Intelligence) features.
+It is worth remembering that BI is focused on analyzing what happened in the past and Data Science is focused on predicting the future and although Microsoft PowerBI is a BI tool, it can help a lot in the context of generating reports that significantly help the process of which, looking to the past provides inputs for Data Science to predict the future.
